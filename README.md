@@ -24,7 +24,8 @@ The dataset was processed and cleaned using the following steps:
 
 > Added an age category column to group customers into different age brackets.
 
-Snapshot of cleaned data
+Snapshot of cleaned data:
+![cleaned_data](https://github.com/OlanikeCJ/Insurance_Policies_Analysis/blob/main/Images%20%20-%20insurance/cleaned%20dataset.png?raw=true)
 
 
 ## Calculations
