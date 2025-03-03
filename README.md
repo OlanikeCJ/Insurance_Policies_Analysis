@@ -1,4 +1,5 @@
 # Car Insurance Policies Analysis
+![dashboard](https://github.com/OlanikeCJ/Insurance_Policies_Analysis/blob/main/Images%20%20-%20insurance/dashboard.png?raw=true)
 
 ## Project Description
 
