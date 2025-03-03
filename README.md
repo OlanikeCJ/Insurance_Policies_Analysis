@@ -2,13 +2,13 @@
 
 ## Project Description
 
-This project analyzes car insurance policies and claims to identify patterns in customer behavior, claim frequency, and financial impact. The insights derived can help other businesses optimize risk assessment, pricing strategies, and policy offerings.
+This project analyzes car insurance policies and claims to identify patterns in customer behavior, claim frequency, and financial impact. The insights can help other businesses optimize risk assessment, pricing strategies, and policy offerings.
 
 ## Dataset Structure
 
 The dataset contains customer and car insurance details, with the following key columns:
 
-![datset]()
+![datset](https://github.com/OlanikeCJ/Insurance_Policies_Analysis/blob/main/Images%20%20-%20insurance/dataset.png?raw=true)
 
 ## Dataset Cleaning Process (ETL)
 
@@ -23,6 +23,9 @@ The dataset was processed and cleaned using the following steps:
 > Created an age column by calculating the customer's age from the birthdate.
 
 > Added an age category column to group customers into different age brackets.
+
+Snapshot of cleaned data
+
 
 ## Calculations
 
